@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/yehengchen/ObjectDetection/blob/master/img/objectdetection.gif" width="60%" height="60%">
+  <img src="https://github.com/bhavyasree/ObjectDetection/blob/master/img/objectdetection.gif" width="60%" height="60%">
 </div>
 
 *Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos.*
@@ -89,7 +89,7 @@ This project is ROS package of Mask R-CNN algorithm for object detection and seg
 ### COCO & VOC Datasets
 * #### COCO dataset and Pascal VOC dataset - [[Here]](https://github.com/yehengchen/ObjectDetection/blob/master/COCO%20and%20Pascal%20VOC.md)
 * #### How to get it working on the COCO dataset __coco2voc__ - [[Here]](https://github.com/yehengchen/ObjectDetection/blob/master/OneStage/yolo/coco2voc.md)
-* #### Convert Dataset2Yolo - COCO / VOC - [[Here]](https://github.com/yehengchen/ObjectDetection/tree/master/OneStage/yolo/convert2Yolo)
+* #### Convert Dataset2Yolo - COCO / VOC - [[Here]](https://github.com/bhavyasree/ObjectDetection/tree/master/OneStage/yolo/convert2Yolo)
 
 ***
 
@@ -99,7 +99,7 @@ This project is ROS package of Mask R-CNN algorithm for object detection and seg
 
 #### ObjectDetection Two-stage vs One-stage Detectors - [[Here]](https://github.com/yehengchen/ObjectDetection/blob/master/Two-stage%20vs%20One-stage%20Detectors.md)
 
-#### ObjectDetection mAP & IoU - [[Here]](https://github.com/yehengchen/ObjectDetection/blob/master/mAP%26IoU.md)
+#### ObjectDetection mAP & IoU - [[Here]](https://github.com/bhavyasree/ObjectDetection/blob/master/mAP%26IoU.md)
 
 
 
